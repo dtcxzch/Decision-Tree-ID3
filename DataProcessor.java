@@ -7,7 +7,7 @@ import java.util.List;
 
 public class DataProcessor {
 
-	// add your dir path here
+	// add your directory path here
 	public final static String fileDir = "";
 	
 	public static List<List<String>> importData(String fileName){

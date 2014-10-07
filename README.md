@@ -3,4 +3,4 @@ Machine-Learning
 
 machine learning course projects
 
-1. Decision Tree, ID3
+Decision Tree implementation using ID3
